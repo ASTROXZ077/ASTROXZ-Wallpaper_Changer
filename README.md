@@ -4,6 +4,10 @@ A lightweight Windows wallpaper changer built with Python.
 
 > Automatically change your Windows wallpaper on your own schedule.
 
+## 📸 Preview
+
+![ASTROXZ Wallpaper Changer](ASTROXZ-Wallpaper_changer.png)
+
 ## ✨ Features
 
 - 🔀 Shuffle wallpapers randomly
